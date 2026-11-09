@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+out/
+*.class
+
+# Logs
+*.log
+
+# Credentials
+.env
+config.properties
